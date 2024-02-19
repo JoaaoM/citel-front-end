@@ -51,7 +51,7 @@ export default function CardMediaIdadeParaCadaTipoSanguineo () {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Bar dataKey="media" fill="#8884d8" activeBar={<Rectangle fill="pink" stroke="blue" />} />
+            <Bar dataKey="media" fill="#e11d48" activeBar={<Rectangle fill="pink" stroke="blue" />} />
             </BarChart>
         </ResponsiveContainer>
         </CardContent>
