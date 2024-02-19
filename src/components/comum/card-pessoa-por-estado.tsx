@@ -53,7 +53,7 @@ export default function CardPessoaPorEstado () {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Bar dataKey="quantidade" fill="#e11d48" activeBar={<Rectangle fill="pink" stroke="blue" />} />
+            <Bar dataKey="quantidade" fill="#8884d8" activeBar={<Rectangle fill="pink" stroke="blue" />} />
             </BarChart>
         </ResponsiveContainer>
         </CardContent>
