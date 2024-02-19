@@ -31,7 +31,7 @@ export default function CardDoadoresPorReceptor () {
         <Card className='w-full'>
         <CardHeader>
             <CardTitle>Quantidade de doadores para cada tipo de sangue</CardTitle>
-            <CardDescription>A quantidade de possíveis doadores para cada tipo sanguíneo receptor.</CardDescription>
+            <CardDescription>A quantidade de possíveis doadores para cada tipo sanguíneo receptor. Somente pessoas com idade de 16 a 69 anos e com peso acima de 50 Kg podem doar sangue.</CardDescription>
         </CardHeader>
         <CardContent className="h-[400px]">
         <ResponsiveContainer width="100%" height="100%">

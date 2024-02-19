@@ -37,7 +37,7 @@ export default function CardObesidadePorSexo () {
         <Card className='w-full'>
         <CardHeader>
             <CardTitle>Obesidade entre homens e mulheres</CardTitle>
-            <CardDescription>Este gráfico exibe a distribuição de obsesos entre homens e mulheres com imc maior que 30.</CardDescription>
+            <CardDescription>Esta tabela exibe a distribuição de obsesos entre homens e mulheres com imc maior que 30.</CardDescription>
         </CardHeader>
         <CardContent>
         <Table>
